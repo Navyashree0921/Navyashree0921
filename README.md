@@ -69,7 +69,7 @@ Simple task management app for daily tasks.
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa32264&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navyashree0921&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Simple task management app for daily tasks.
 ### 🌍 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manasa32264&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Navyashree0921&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
