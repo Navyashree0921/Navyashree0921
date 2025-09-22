@@ -17,16 +17,20 @@
 
 ## 🛠️ Skills
 **Languages & Tools:**  
-<img src="https://img.shields.io/badge/-?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
-<img src="https://img.shields.io/badge/-?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
-<img src="https://img.shields.io/badge/-?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-<img src="https://img.shields.io/badge/-?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-<img src="https://img.shields.io/badge/-?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
-<img src="https://img.shields.io/badge/-?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-<img src="https://img.shields.io/badge/-?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-<img src="https://img.shields.io/badge/-?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
-<img src="https://img.shields.io/badge/-?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
 
 **Frameworks & Libraries:**  
 Express.js | React.js | Bootstrap  
