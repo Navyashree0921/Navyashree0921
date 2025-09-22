@@ -64,7 +64,7 @@
 
 ---
 
-## ✨ Extra Badges & Animations
+## ✨ 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-FullStack-brightgreen?style=for-the-badge&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/Passionate-Developer-blue?style=for-the-badge&logo=github" />
