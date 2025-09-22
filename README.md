@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:green;">Welcome to my GitHub 👋, I'm Navya</h1>
-<h3 align="center">🌱 A daily learner exploring Web Development & AI/ML</h3>
+<h1 align="center" style="color:#FF5733;">Welcome to my GitHub 👋, I'm Navya</h1>
+<h3 align="center">💻 Building projects, learning new tech daily</h3>
 
 <!-- Typing Animation -->
 <p align="center">
