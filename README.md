@@ -17,16 +17,16 @@
 
 ## 🛠️ Skills
 **Languages & Tools:**  
-![](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/-?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
+<img src="https://img.shields.io/badge/-?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+<img src="https://img.shields.io/badge/-?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+<img src="https://img.shields.io/badge/-?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+<img src="https://img.shields.io/badge/-?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+<img src="https://img.shields.io/badge/-?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+<img src="https://img.shields.io/badge/-?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+<img src="https://img.shields.io/badge/-?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
+<img src="https://img.shields.io/badge/-?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
 
 **Frameworks & Libraries:**  
 Express.js | React.js | Bootstrap  
