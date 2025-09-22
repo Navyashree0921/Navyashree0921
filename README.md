@@ -2,7 +2,7 @@
 <h1 align="center" style="color:red;">Welcome to my GitHub 👋, I'm Navya</h1>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=        Hello+World!+🌎;     I'm+Navya;     Coding+Learning+&+Coffee+☕;      Where+Ideas+Come+Alive" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Hello+World!+🌎;I'm+Navya;Coding+Learning+&+Coffee+☕;Where+Ideas+Come+Alive" />
 </p>
 
 ## About Me
