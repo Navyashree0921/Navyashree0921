@@ -64,7 +64,21 @@ Simple task management app for daily tasks.
 ## 📈 GitHub Stats
 ![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navyashree0921&show_icons=true&theme=radical)  
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Navyashree0921.profile)
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasa32264&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manasa32264&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
