@@ -1,8 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:red;">Welcome to my GitHub 👋, I'm Navya</h1>
+<h1 align="center" style="color:green;">Welcome to my GitHub 👋, I'm Navya</h1>
+<h3 align="center">🌱 A daily learner exploring Web Development & AI/ML</h3>
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Hello+World!+🌎;I'm+Navya;Coding+Learning+&+Coffee+☕;Where+Ideas+Come+Alive" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Hello+World!+%F0%9F%8C%8E;I'm+Navya;Coding,+Learning+%26+Coffee+%E2%98%95;Where+Ideas+Come+Alive" />
 </p>
 
 ## About Me
