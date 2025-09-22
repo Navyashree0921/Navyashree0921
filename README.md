@@ -17,16 +17,16 @@
 
 ## 🛠️ Skills
 **Languages & Tools:**  
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 
 **Frameworks & Libraries:**  
 Express.js | React.js | Bootstrap  
