@@ -35,19 +35,6 @@
 
 ---
 
-## 📂 Projects
-
-| Project | Tech | Repo |
-|---------|------|------|
-| 🌐 **Portfolio Website** | HTML | [Link](https://github.com/Navyashree0921/Portfolio) |
-| 💬 **Mini WhatsApp** | Node.js, Express, EJS, MongoDB, JS | [Link](https://github.com/Navyashree0921/MiniWhatsApp) |
-| 🌐 **Akya Groups Website** | HTML, CSS | [Link](https://github.com/Navyashree0921/AkyaGroupsWebsite) |
-| 📝 **Quora Posts** | Node.js, Express, EJS, JS, CSS | [Link](https://github.com/Navyashree0921/QuoraPosts) |
-| 🎵 **Spotify Page** | HTML, CSS | [Link](https://github.com/Navyashree0921/SpotifyPage) |
-| ✅ **Todo App** | HTML, CSS | [Link](https://github.com/Navyashree0921/TodoApp) |
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navyashree0921&show_icons=true&theme=radical" />
