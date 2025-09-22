@@ -1,28 +1,24 @@
-# Hi, I'm Navya 👋
+<p align="center">
+  <h1>Hi, I'm Navya 👋</h1>
+  <h3>Welcome to my GitHub profile!</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+  <p>🌱 Learning Web Development, DSA, and exploring AI/ML.</p>
+  <p>💻 Check out my projects and skills below!</p>
+</p>
 
-## About Me
-- 🎓 3rd-year Computer Science and Engineering student  
-- 💻 Learning Web Development, DSA, and other tech-related concepts  
-- 🌱 Currently exploring Git, Node.js, and project-based learning  
-- 📫 Reach me at: navyashree0918email@example.com  
-
----
-
-## 🛠️ Skills
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
-
-**Frameworks & Libraries:**  
-Express.js | React.js | Bootstrap  
+<p align="center">
+  <!-- Skill Badges -->
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
@@ -59,12 +55,12 @@ Simple task management app for daily tasks.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Navyashree0921&color=blue)
 
-
 ---
 
 ## 🎯 Goals
-- Build 5+ real-world projects before placements  
-- Contribute to open-source projects  
+- 🚀 Build 5+ real-world projects before placements  
+- 🌟 Learn advanced AI and Machine Learning concepts  
+- 🤝 Contribute to open-source projects  
 
 ---
 
